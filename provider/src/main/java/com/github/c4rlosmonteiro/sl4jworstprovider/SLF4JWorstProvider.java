@@ -1,6 +1,6 @@
-package com.github.cmonteiro.sl4jworstprovider;
+package com.github.c4rlosmonteiro.sl4jworstprovider;
 
-import com.github.cmonteiro.sl4jworstprovider.internalcomponents.SLF4JWorkProviderLoggerFactory;
+import com.github.c4rlosmonteiro.sl4jworstprovider.internalcomponents.SLF4JWorkProviderLoggerFactory;
 import org.slf4j.ILoggerFactory;
 import org.slf4j.IMarkerFactory;
 import org.slf4j.helpers.NOPMDCAdapter;

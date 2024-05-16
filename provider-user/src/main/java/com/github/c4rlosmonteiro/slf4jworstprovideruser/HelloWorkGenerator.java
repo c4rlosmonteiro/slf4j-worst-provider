@@ -1,4 +1,4 @@
-package com.github.cmonteiro.slf4jworstprovideruser;
+package com.github.c4rlosmonteiro.slf4jworstprovideruser;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

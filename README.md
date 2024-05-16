@@ -9,11 +9,11 @@ In the project files the existing main class will produce the logs below, showin
 
 
 ```
-[INFO][com.github.cmonteiro.slf4jworstprovideruser.Main] Generating hello world messages! (×͜×)
-[DEBUG][com.github.cmonteiro.slf4jworstprovideruser.HelloWorkGenerator] Generating hello world message for [Bob] (×͜×)
-[INFO][com.github.cmonteiro.slf4jworstprovideruser.Main] :: Hello Bob! (×͜×)
-[DEBUG][com.github.cmonteiro.slf4jworstprovideruser.HelloWorkGenerator] Generating hello world message for [Paul] (×͜×)
-[INFO][com.github.cmonteiro.slf4jworstprovideruser.Main] :: Hello Paul! (×͜×)
-[DEBUG][com.github.cmonteiro.slf4jworstprovideruser.HelloWorkGenerator] Generating hello world message for [Marcus] (×͜×)
-[INFO][com.github.cmonteiro.slf4jworstprovideruser.Main] :: Hello Marcus! (×͜×)
+[INFO][com.github.c4rlosmonteiro.slf4jworstprovideruser.Main] Generating hello world messages! (×͜×)
+[DEBUG][com.github.c4rlosmonteiro.slf4jworstprovideruser.HelloWorkGenerator] Generating hello world message for [Bob] (×͜×)
+[INFO][com.github.c4rlosmonteiro.slf4jworstprovideruser.Main] :: Hello Bob! (×͜×)
+[DEBUG][com.github.c4rlosmonteiro.slf4jworstprovideruser.HelloWorkGenerator] Generating hello world message for [Paul] (×͜×)
+[INFO][com.github.c4rlosmonteiro.slf4jworstprovideruser.Main] :: Hello Paul! (×͜×)
+[DEBUG][com.github.c4rlosmonteiro.slf4jworstprovideruser.HelloWorkGenerator] Generating hello world message for [Marcus] (×͜×)
+[INFO][com.github.c4rlosmonteiro.slf4jworstprovideruser.Main] :: Hello Marcus! (×͜×)
 ```
